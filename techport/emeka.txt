@@ -1,0 +1,1 @@
+DevOps is a bridge between development and operation. It means integration and automation of software developent.
